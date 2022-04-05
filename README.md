@@ -1,4 +1,4 @@
-print("- 👋 Hi, I’m @AayushkumarPathak
+print("- 👋 Hi, I’m @AayushKr
 - 👀 I’m interested in ...Python
 - 🌱 I’m currently learning ...Python DSA
 - 💞️ I’m looking to collaborate on ...Github
