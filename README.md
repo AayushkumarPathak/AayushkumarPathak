@@ -2,11 +2,11 @@
 
 I am a Computer Science Engineering Student. 
 
-I am interested in Java | Spring Boot | Spring Security | Spring Data JPA | Next.js | React.js | C++ | Node.js| MongoDB | MySQL | AWS | Supabase.
+I am interested in Java | Spring Boot | Spring Security | Spring Data JPA | React.js | C++ | Node.js| MongoDB | MySQL | AWS | Supabase.
 
 **Strengths:**
   * Resourceful
-  * Proficient in Java 
+  * Problem Solving 
   * Collaborative Worker
   * Commercially aware.
   
