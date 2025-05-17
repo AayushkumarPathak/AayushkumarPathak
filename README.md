@@ -1,4 +1,4 @@
-### I'm Aayush Kumar Pathak _AayushkumarPathak_
+### I'm Aayush Kumar Pathak
 
 I am a Computer Science Engineering Student. 
 
